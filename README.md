@@ -1,2 +1,2 @@
 # EduVibe-Website
-- One page website to demonstrate the HTML-CSS properties
+- One page website created using flex property only to demonstrate the HTML-CSS properties
