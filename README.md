@@ -1,2 +1,2 @@
 # EduVibe-Website
-HTML-CSS website
+- One page website to demonstrate the HTML-CSS properties
